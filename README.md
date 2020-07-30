@@ -13,7 +13,7 @@ Decentralized applications are a piece of so ware that communicates with the blo
 
 ## Smart Contracts
 
-A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code.The smart contracts that I created are:
+A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The smart contracts that I created are:
 
 * [Inbox](https://github.com/SwethaVipparla/Blockchain/blob/master/Smart%20Contracts/inbox/contracts/Inbox.sol)
 * [Lottery](https://github.com/SwethaVipparla/Blockchain/blob/master/Smart%20Contracts/lottery/contracts/Lottery.sol)
